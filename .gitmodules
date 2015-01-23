@@ -1,0 +1,6 @@
+[submodule "openrocket"]
+	path = openrocket
+	url = https://github.com/openrocket/openrocket.git
+[submodule "Quad-Sim"]
+	path = Quad-Sim
+	url = https://github.com/dch33/Quad-Sim.git
