@@ -4,3 +4,6 @@
 [submodule "Quad-Sim"]
 	path = Quad-Sim
 	url = https://github.com/dch33/Quad-Sim.git
+[submodule "simulavr"]
+	path = simulavr
+	url = https://github.com/Traumflug/simulavr.git
