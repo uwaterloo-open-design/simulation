@@ -7,3 +7,6 @@
 [submodule "psas-visualizer"]
 	path = psas-visualizer
 	url = https://github.com/psas/visualizer.git
+[submodule "simulavr"]
+	path = simulavr
+	url = https://github.com/Traumflug/simulavr.git
