@@ -4,3 +4,6 @@
 [submodule "Quad-Sim"]
 	path = Quad-Sim
 	url = https://github.com/dch33/Quad-Sim.git
+[submodule "psas-visualizer"]
+	path = psas-visualizer
+	url = https://github.com/psas/visualizer.git
